@@ -1,4 +1,4 @@
-# Run Line Encoding (TestRLE.py)
+# Run Length Encoding (TestRLE.py)
 ## Synopsis
 
 This [script] (TestRLE.py) was developed to automate the process that creates text images from a list of list of integers that represent alternating binary cells.
