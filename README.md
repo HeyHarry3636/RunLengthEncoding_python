@@ -33,4 +33,4 @@ Michael Harris is the author of this script.
 
 ## License
 
-This code is available under the [MIT License.] (LICENSE.txt)
+This code is available under the [MIT License.] (LICENSE)
